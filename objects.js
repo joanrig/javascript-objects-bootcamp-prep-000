@@ -1,5 +1,5 @@
 var playlist = {
-  Beatles: "Martha, My Dear",
+  'Beatles': "Martha, My Dear",
   'Rolling Stones': "Ruby Tuesday",
   'George Harrison': 'Something'
 }
